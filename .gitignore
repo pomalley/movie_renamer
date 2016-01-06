@@ -1,0 +1,4 @@
+.idea/
+*pyc
+*pyo
+renamer_data.pickle
